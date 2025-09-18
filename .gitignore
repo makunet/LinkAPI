@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+*.db
+*.log
+
+/bin
+/log
+/web/node_modules
+/web/dist
+
+### Go Patch ###
+/vendor/
+!/vendor/vendor.json
